@@ -1,2 +1,2 @@
-import imges from './images';
-export {imges};
+import images from './images';
+export {images};
