@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import './navbar.css';
 import { GiHamburgerMenu } from 'react-icons/gi';
 import { MdOutlineRestaurantMenu } from 'react-icons/md';
-import images from '../constrant/images';
+import images from '../../constrant/images';
 const Navbar = () => {
     const [toggleMenu, setToggleMenu] = useState(false);
     return (
