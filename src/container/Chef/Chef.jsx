@@ -8,4 +8,4 @@ const Chef = () => {
   )
 }
 
-export default Chef
+export default Chef;
