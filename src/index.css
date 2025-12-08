@@ -3,17 +3,16 @@
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 ul li {
     list-style: none;
 }
 a {
+    color: unset;
     text-decoration: none;
 }
-img {
-    width: 100%;
-    height: 100%;
-}
+
 :root {
   --font-base: 'Cormorant Upright', serif;
   --font-alt: 'Open Sans', sans-serif;

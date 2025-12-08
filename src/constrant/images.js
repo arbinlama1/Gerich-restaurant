@@ -5,7 +5,7 @@ import award2 from '/images/award02.png';
 import award3 from '/images/award03.png';
 import award5 from '/images/award05.png';
 import findus from '/images/findus.png';
-import g from '/images/G.png';
+import G from '/images/G.png';
 import gallery1 from '/images/gallery01.png';
 import gallery2 from '/images/gallery02.png';
 import gallery3 from '/images/gallery03.png';
@@ -19,6 +19,8 @@ import overlaybg from '/images/overlaybg.png';
 import sign from '/images/sign.png';
 import spoon from '/images/spoon.png';
 import spoons from '/images/spoon.svg';
+import welcome from '/images/welcome.png';
+
 
 export default {
     bg,
@@ -28,7 +30,7 @@ export default {
     award3,
     award5,
     findus,
-    g,
+    G,
     gallery1,
     gallery2,
     gallery3,
@@ -41,5 +43,6 @@ export default {
     overlaybg,
     sign,
     spoon,
-    spoons
+    spoons,
+    welcome,
 };
