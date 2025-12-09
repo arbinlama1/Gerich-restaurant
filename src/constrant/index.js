@@ -1,3 +1,4 @@
 import images from './images';
 import data from './data';
-export {images,data};
+import meal from '../../public/images/meal.mp4';
+export {images,data, meal};
