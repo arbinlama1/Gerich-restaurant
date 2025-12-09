@@ -20,7 +20,7 @@ import sign from '/images/sign.png';
 import spoon from '/images/spoon.png';
 import spoons from '/images/spoon.svg';
 import welcome from '/images/welcome.png';
-
+import quote from '/images/quote.png';
 
 export default {
     bg,
@@ -45,4 +45,5 @@ export default {
     spoon,
     spoons,
     welcome,
+    quote,
 };
