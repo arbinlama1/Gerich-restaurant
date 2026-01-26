@@ -8,6 +8,7 @@ import Intro from './container/Intro/Intro';
 import Laurels from './container/Laurels/Laurels';
 import Gallery from './container/Gallery/Gallery';
 import Findus from './container/Findus/Findus';
+import Footer from './container/Footer/Footer';
 function App() {
   return (
    <>
@@ -20,6 +21,7 @@ function App() {
    <Laurels />
    <Gallery />
    <Findus />
+   <Footer />
    </>
   )
 }

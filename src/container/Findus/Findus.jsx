@@ -1,6 +1,6 @@
 import { SubHeading } from '../../component';
 import { images } from '../../constrant';
-import "./Findus.css";
+
 
 const Findus = () => {
   return (
